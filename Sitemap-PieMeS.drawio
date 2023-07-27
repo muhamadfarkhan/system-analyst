@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T07:14:54.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="D2AdiBbo0j9jWQ8WEbA2" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T07:23:09.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="noWl5QpylnJF_pLzNEos" version="21.6.5" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="1764" dy="2160.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="1727.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,8 +34,14 @@
         <mxCell id="13" value="Pengajuan" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="310" y="230" width="190" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="n60hB6wUWU2CU9CprRJ9-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="14" target="n60hB6wUWU2CU9CprRJ9-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="14" value="Pengajuan Baru" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="185" y="390" width="130" height="60" as="geometry" />
+          <mxGeometry x="200" y="380" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n60hB6wUWU2CU9CprRJ9-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="44" target="n60hB6wUWU2CU9CprRJ9-119">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="44" value="Saldo" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="1190" y="380.00000000000006" width="130" height="60" as="geometry" />
@@ -66,6 +72,24 @@
         </mxCell>
         <mxCell id="x6c-boVye2weIyAbreFt-123" value="Login" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="752" y="-110" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n60hB6wUWU2CU9CprRJ9-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n60hB6wUWU2CU9CprRJ9-113" target="n60hB6wUWU2CU9CprRJ9-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n60hB6wUWU2CU9CprRJ9-113" value="View ERK" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Tahoma;fillColor=#23445D;strokeColor=none;fontColor=#FFFFFF;rounded=1;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n60hB6wUWU2CU9CprRJ9-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n60hB6wUWU2CU9CprRJ9-115" target="n60hB6wUWU2CU9CprRJ9-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n60hB6wUWU2CU9CprRJ9-115" value="History Pengajuan" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Tahoma;fillColor=#23445D;strokeColor=none;fontColor=#FFFFFF;rounded=1;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n60hB6wUWU2CU9CprRJ9-117" value="Komentar Pengajuan" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Tahoma;fillColor=#23445D;strokeColor=none;fontColor=#FFFFFF;rounded=1;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n60hB6wUWU2CU9CprRJ9-119" value="Saldo" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="1190" y="480.00000000000006" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
