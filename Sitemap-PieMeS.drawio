@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T07:29:14.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="K40W_VR5eWD69wZWNlpr" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T07:31:20.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="ORtgvfIMIZg0xl4tpXXJ" version="21.6.5" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="1985" dy="2275.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -17,13 +17,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4" value="Report" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="1239.9999999999998" y="230" width="190" height="80" as="geometry" />
+          <mxGeometry x="1329.9999999999998" y="230" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="2" target="4" edge="1">
           <mxGeometry x="337" y="215.5" width="100" height="100" as="geometry">
             <mxPoint x="337" y="315.5" as="sourcePoint" />
             <mxPoint x="437" y="215.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="n60hB6wUWU2CU9CprRJ9-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="10" target="n60hB6wUWU2CU9CprRJ9-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n60hB6wUWU2CU9CprRJ9-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="10" target="n60hB6wUWU2CU9CprRJ9-124">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="10" value="Approval" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="900" y="230" width="190" height="80" as="geometry" />
@@ -41,10 +47,10 @@
           <mxGeometry x="200" y="380" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="44" value="Saldo" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="1190" y="380.00000000000006" width="130" height="60" as="geometry" />
+          <mxGeometry x="1260" y="370.00000000000006" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="45" value="Realisasi" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="1370" y="380" width="130" height="60" as="geometry" />
+          <mxGeometry x="1460" y="370" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="59" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="2" target="12" edge="1">
           <mxGeometry x="347" y="225.5" width="100" height="100" as="geometry">
@@ -84,6 +90,12 @@
         </mxCell>
         <mxCell id="n60hB6wUWU2CU9CprRJ9-117" value="Komentar Pengajuan" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Tahoma;fillColor=#23445D;strokeColor=none;fontColor=#FFFFFF;rounded=1;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n60hB6wUWU2CU9CprRJ9-122" value="Approval Marketing" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Tahoma;fillColor=#23445D;strokeColor=none;fontColor=#FFFFFF;rounded=1;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="822" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n60hB6wUWU2CU9CprRJ9-124" value="Approval FA" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Tahoma;fillColor=#23445D;strokeColor=none;fontColor=#FFFFFF;rounded=1;gradientColor=none;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
