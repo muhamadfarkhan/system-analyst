@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T06:44:44.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="2Eit8FZT1XPGWTaBQP7I" version="21.6.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-31T06:49:29.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="kZkV3Ev6bzXWSu40Urio" version="21.6.5" type="github" pages="5">
   <diagram name="Sitemap" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="794" dy="1654.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -568,6 +568,14 @@
             <mxPoint x="160" y="335" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_9YadBuDxLgkFFutiTeS" name="BP-Rekening">
+    <mxGraphModel dx="794" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
