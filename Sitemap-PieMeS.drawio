@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T03:58:18.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="MxUJrB52z5-S6opIhpyz" version="21.6.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-31T04:01:25.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="F4jCiKWyg9kST1zlDCPC" version="21.6.5" type="github" pages="4">
   <diagram name="Sitemap" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="794" dy="1654.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -158,7 +158,7 @@
             <mxPoint x="115" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mx_BGRn_JSBhVJ7Nowpk-80" value="Pemerintah" style="rhombus;whiteSpace=wrap;html=1;" parent="Mx_BGRn_JSBhVJ7Nowpk-11" vertex="1">
+        <mxCell id="Mx_BGRn_JSBhVJ7Nowpk-80" value="Segment Pemerintah" style="rhombus;whiteSpace=wrap;html=1;" parent="Mx_BGRn_JSBhVJ7Nowpk-11" vertex="1">
           <mxGeometry x="85" y="300" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Mx_BGRn_JSBhVJ7Nowpk-103" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Mx_BGRn_JSBhVJ7Nowpk-11" source="Mx_BGRn_JSBhVJ7Nowpk-72" target="Mx_BGRn_JSBhVJ7Nowpk-102" edge="1">
@@ -211,7 +211,7 @@
         <mxCell id="Mx_BGRn_JSBhVJ7Nowpk-115" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="Mx_BGRn_JSBhVJ7Nowpk-27" source="Mx_BGRn_JSBhVJ7Nowpk-79" target="Mx_BGRn_JSBhVJ7Nowpk-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mx_BGRn_JSBhVJ7Nowpk-79" value="Pemerintah" style="rhombus;whiteSpace=wrap;html=1;" parent="Mx_BGRn_JSBhVJ7Nowpk-27" vertex="1">
+        <mxCell id="Mx_BGRn_JSBhVJ7Nowpk-79" value="Segment Pemerintah" style="rhombus;whiteSpace=wrap;html=1;" parent="Mx_BGRn_JSBhVJ7Nowpk-27" vertex="1">
           <mxGeometry x="85" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Mx_BGRn_JSBhVJ7Nowpk-118" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Mx_BGRn_JSBhVJ7Nowpk-27" source="Mx_BGRn_JSBhVJ7Nowpk-114" target="Mx_BGRn_JSBhVJ7Nowpk-117" edge="1">
@@ -312,6 +312,9 @@
               <mxPoint x="260" y="440" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Anwrgdbh4CqamGBAKEzt-22" value="Check ERK" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="70" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
